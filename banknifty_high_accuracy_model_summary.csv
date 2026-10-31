@@ -1,0 +1,4 @@
+model,accuracy
+Random Forest,0.44274809160305345
+Gradient Boosting,0.5267175572519084
+Ensemble,0.5419847328244275

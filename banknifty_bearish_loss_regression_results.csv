@@ -1,0 +1,5 @@
+model,train_bearish_rows,test_bearish_rows,mae_loss_pct_on_actual_bearish,r2_on_actual_bearish
+XGBoost Regressor,282,43,1.2283807396900597,-0.281723458510198
+Random Forest Regressor,282,43,1.2579712116508552,-0.2647126798890238
+LightGBM Regressor,282,43,1.2768404579259789,-0.3126808168708195
+Ridge,282,43,1.328301213786051,-0.5481498833236513
